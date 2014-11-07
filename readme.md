@@ -1,6 +1,6 @@
 # Willkommen beim Repository der Vorlesung CS102
 
-Stellen sie als erstes oben die Einstellung auf "Watch" damit die Tutoren der Vorlesung ihren Nutzernamen erfahren. Sie sollten anschliessend in den n‰chsten 24 Stunden editierrechte erhalten. Falls sie keine E-Mail erhalten und auch im Spamordner nichts finden kontaktieren sie die Tutoren direkt.
+Stellen sie als erstes oben die Einstellung auf "Watch" damit die Tutoren der Vorlesung ihren Nutzernamen erfahren. Sie sollten anschliessend in den n√§chsten 24 Stunden editierrechte erhalten. Falls sie keine E-Mail erhalten und auch im Spamordner nichts finden kontaktieren sie die Tutoren direkt.
 
 Editieren sie anschliessend diese Datei indem sie ihren Namen unten eintragen (Familienname - GitHub Alias)
 
@@ -12,7 +12,7 @@ Editieren sie anschliessend diese Datei indem sie ihren Namen unten eintragen (F
 
 ## D
 
-D‰hler Maurus - X-Hades-X
+D√§hler Maurus - X-Hades-X
 
 ## E
 
@@ -31,6 +31,8 @@ D‰hler Maurus - X-Hades-X
 ## L
 
 ## M
+
+Meyer Cyrill - meycyr00
 
 ## N
 
