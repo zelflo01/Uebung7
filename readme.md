@@ -52,6 +52,8 @@ Oytun Yasin - yasiboy
 
 ## R
 
+Rölli Thomas - Abrahma
+
 ## S
 
 ## T
