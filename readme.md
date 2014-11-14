@@ -32,6 +32,8 @@ Engist Oliver - oliverengist
 
 Folini Jenny - pholinus
 
+Frey Luca Flavio Sigbjorn VI - Klispydok
+
 ## G
 
 Golaszewski Barnabas - TheBarney
@@ -75,6 +77,8 @@ Rieser Denise - DRieser
 ## S
 Sidler Anika - Anika95
 
+Staub Dario - Klispydok
+
 ## T
 
 ## U
@@ -85,6 +89,8 @@ Sidler Anika - Anika95
 Windisch Andrea - andrea312
 
 Weber Patrick - PatrickWeber
+
+Winnips Eva - Klispydok
 
 ## X
 
