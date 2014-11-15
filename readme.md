@@ -82,6 +82,8 @@ Sidler Anika - Anika95
 Staub Dario - Klispydok
 
 Spiess Florian - Spiess
+
+Schmid Gian-Luca - GianLucaS
 ## T
 
 ## U
