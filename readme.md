@@ -38,6 +38,8 @@ Folini Jenny - pholinus
 
 Frey Luca Flavio Sigbjorn VI - Klispydok
 
+Freimann Sven - SFreimann
+
 ## G
 
 Golaszewski Barnabas - TheBarney
@@ -111,6 +113,8 @@ Weber Patrick - PatrickWeber
 Weber Yanik - yanikweber
 
 Winnips Eva - Klispydok
+
+Winter Florine - Flowi7
 
 ## X
 
