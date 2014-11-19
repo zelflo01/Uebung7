@@ -68,6 +68,7 @@ Hirt Fabio - fhirt
 ## J
 Jehle Martin MarJehUni
 ## K
+Kratt Maximilian - kramax00
 
 Käser Silvan - kaesers
 
