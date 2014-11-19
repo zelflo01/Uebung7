@@ -22,6 +22,8 @@ Berger Christin - Christin-
 
 Both Kevin - botkev00
 
+Bastian Philipp - basphi
+
 ## C
 
 Chevalley Cyrill - CyrillChevalley
