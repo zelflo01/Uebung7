@@ -18,6 +18,8 @@ Badenberg Ferdinand - ferdinandbadenberg
 
 Berger Christin - Christin-
 
+Both Kevin - botkev00
+
 ## C
 
 Chevalley Cyrill - CyrillChevalley
