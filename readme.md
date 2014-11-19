@@ -79,6 +79,8 @@ Leu Marco - marco-leu
 
 ## M
 
+Mangold Dominik - mandom01
+
 Meyer Cyrill - meycyr00
 
 Meyer Marco - marcomeyer0
