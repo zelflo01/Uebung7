@@ -47,6 +47,8 @@ Frey Luca Flavio Sigbjorn VI - Klispydok
 
 Freimann Sven - SFreimann
 
+Forrer Nicolas - nicolasforrer
+
 ## G
 
 Geyer Simon - geyersimo
