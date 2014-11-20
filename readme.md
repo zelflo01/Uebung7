@@ -26,6 +26,8 @@ Bastian Philipp - Phiba
 
 Brülisauer Mirjam - MirjamBruelisauer
 
+Buchholz Thomas - Brachiomas
+
 ## C
 
 Chevalley Cyrill - CyrillChevalley
@@ -91,8 +93,6 @@ Kübler Jasmin - JasminKu
 Leu Marco - marco-leu
 
 ## M
-
-Masmuenster Marc - gusti1
 
 Mangold Dominik - mandom01
 
