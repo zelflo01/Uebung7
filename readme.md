@@ -155,6 +155,7 @@ Tanner Georg - GeorgTanner
 ## U
 
 ## V
+Vogel Yannick - yamivo
 
 ## W
 Windisch Andrea - andrea312
