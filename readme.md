@@ -82,8 +82,6 @@ Käser Silvan - kaesers
 
 Kizildere Ilhan - jaymaster6
 
-Kübler Jasmin - JasminKu
-
 ## L
 
 Leu Marco - marco-leu
@@ -169,3 +167,5 @@ Winter Florine - Flowi7
 van Zanten Milan - milanvanzanten
 
 Zumbrunn Benjamin - benzumbrunn
+
+Zellweger Florian - zelflo01
