@@ -60,8 +60,6 @@ Freimann Sven - SFreimann
 
 Forrer Nicolas - nicolasforrer
 
-Freudiger Jessica - jfreudiger
-
 ## G
 
 Geyer Simon - geyersimo
@@ -183,3 +181,5 @@ Winter Florine - Flowi7
 van Zanten Milan - milanvanzanten
 
 Zumbrunn Benjamin - benzumbrunn
+
+Zellweger Florian - zelflo01
